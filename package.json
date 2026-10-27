@@ -1,0 +1,11 @@
+{
+  "name": "unibot",
+  "version": "0.1.0",
+  "description": "UniBot - Sistema Asesor Académico (Tarea Integradora)",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "Juan Alejandro Barrero",
+  "license": "ISC"
+}
